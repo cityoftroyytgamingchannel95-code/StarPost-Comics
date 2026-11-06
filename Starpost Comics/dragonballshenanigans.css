@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(255, 248, 106);
+    background-image: url("DBS logo.png");
+    background-size: 600px 600px;
+    background-repeat: repeat;
+    background-position: center;
+}
+.TARGETpages{
+    scroll-behavior: smooth;
+}

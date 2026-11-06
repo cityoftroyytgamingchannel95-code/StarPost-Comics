@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+h1{
+    color: black;
+    text-align:center;
+    font-family:cursive;
+    font-size: 150px;
+    background-color: rgb(207, 208, 156);
+}
+a:link{
+font-size: 150px;
+    color: rgb(206, 20, 20);
+    background-color: rgb(207, 208, 156);
+    text-decoration: none;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+a:visited{
+    font-size: 150px;
+    color: black;
+    background-color: rgb(206, 20, 20);
+    text-decoration: underline;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
